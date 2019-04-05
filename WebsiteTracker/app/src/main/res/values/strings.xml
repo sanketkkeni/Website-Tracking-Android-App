@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Website Tracker</string>
+    <string name="title_activity_display">displayActivity</string>
 </resources>
